@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Crystal Ball</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="button">Enlighten me!</string>
+    <string name="bkgd_description">crystal ball</string>
+
+</resources>
